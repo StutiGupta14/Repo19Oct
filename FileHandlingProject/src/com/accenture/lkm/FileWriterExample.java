@@ -10,6 +10,6 @@ public class FileWriterExample {
 	String str="updated string......";
 	//writer.write(str);
 	writer.flush();
-	System.out.println("End of program");
+	System.out.println("End of the program");
 	}
 }
